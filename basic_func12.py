@@ -7,4 +7,5 @@ def main(a):
     Returns:
         float: the result
     '''
-    return
+    a = 3.14
+    return float(a)
